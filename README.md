@@ -46,6 +46,7 @@
  [![Tweet](https://img.shields.io/twitter/url/http/shields.io.svg?style=social)](https://twitter.com/intent/tweet?text=The%platform%20for%customizing%20AI,%20from%20enterprise%20data&url=https://github.com/mindsdb/mindsdb&via=mindsdb&hashtags=ai,opensource)
 
 ## 📖 About us
+## Mudassir Alam
 
 MindsDB is the platform for customizing AI from enterprise data.
 
